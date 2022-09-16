@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vymtnprewgxs6p0t/branch/main?svg=true)](https://ci.appveyor.com/project/andrianova1308/pcd atterns-part2/branch/main)
